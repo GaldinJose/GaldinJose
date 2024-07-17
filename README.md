@@ -1,4 +1,4 @@
-![MasterHead]("Blue Modern Technology LinkedIn Banner.png")
+
 <h1 align="center">Hi 👋</h1>
 
 <img align="right" height="150px" width="150px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
