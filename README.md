@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaldinJose
-- 👀 I’m interested in Machine learning 
+- 👀 I’m interested in Machine learning and Data Visualisation
 - 🌱 I’m currently learning Data Science and AI
 - 📫 How to reach me galdinjose@gmail.com
 
